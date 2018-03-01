@@ -1,0 +1,17 @@
+html {
+    text-align: center;
+    background-color: gray;
+}
+
+body {
+    background-color: white;
+}
+button {
+    border: 3px solid lightgoldenrodyellow !important;
+    cursor: pointer;
+    outline: none;
+}
+
+div { 
+    background-color: lightgoldenrodyellow;
+}
